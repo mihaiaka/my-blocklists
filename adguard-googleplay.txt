@@ -1,0 +1,6 @@
+# This blocklist helps Adguard admin restrict access to Google Play Store and its domains.
+
+||play-fe.googleapis.com^
+||play-lh.googleusercontent.com^
+||play.google.com^
+||play.googleapis.com^
