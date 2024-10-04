@@ -6,3 +6,5 @@
 ||nflximg.net^
 ||nflxvideo.net^
 ||nflxso.net^
+||netflix.net^
+||nflximg.com^
