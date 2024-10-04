@@ -1,0 +1,11 @@
+# This blocklist helps Adguard admin restrict access to HBO/HBO Max and its domains.
+# Curated from sources online.
+||hbo.com^
+||hbogo.co.th^
+||hbogo.com^
+||hbogo.eu^
+||hbogoasia.com^
+||hbogoasia.id^
+||hbogoasia.ph^
+||hbomax.com^
+||hbomaxcdn.com^

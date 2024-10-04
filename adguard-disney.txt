@@ -1,0 +1,6 @@
+# This blocklist helps Adguard admin restrict access to Disney+ and its domains.
+# Curated from sources online.
+||disney-plus.net^
+||disneyplus.com^
+||dssott.com^
+||search-api-disney.bamgrid.com^
