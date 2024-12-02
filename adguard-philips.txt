@@ -1,0 +1,5 @@
+# This blocklist helps Adguard admin restrict access to Philips TV updates and its domains.
+
+||authorize.nettvservices.com^
+||firmware.nettvservices.com^
+||deviceportal.nettvservices.com^
