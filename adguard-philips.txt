@@ -3,3 +3,4 @@
 ||authorize.nettvservices.com^
 ||firmware.nettvservices.com^
 ||deviceportal.nettvservices.com^
+||.nettvservices.com^
