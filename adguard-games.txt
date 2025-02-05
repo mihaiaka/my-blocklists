@@ -1,6 +1,9 @@
-# This blocklist helps Adguard admin restrict access to Roblox and its domains.
+# This blocklist helps Adguard admin restrict access to multiple games and their domains.
 
 ||rbxcdn.com^
 ||roblox.com^
 ||rbxtrk.com^
 ||roblox.plus^
+||game.brawlstarsgame.com^
+||brawlstars.com^
+||poki.com^
