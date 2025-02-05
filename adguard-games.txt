@@ -1,0 +1,6 @@
+# This blocklist helps Adguard admin restrict access to Roblox and its domains.
+
+||rbxcdn.com^
+||roblox.com^
+||rbxtrk.com^
+||roblox.plus^
