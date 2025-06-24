@@ -7,3 +7,4 @@
 ||game.brawlstarsgame.com^
 ||brawlstars.com^
 ||poki.com^
+||rekenen.nl^
