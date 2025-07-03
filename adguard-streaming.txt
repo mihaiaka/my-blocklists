@@ -1,0 +1,35 @@
+# This blocklist helps Adguard admin restrict access to streaming services.
+# Curated from sources online.
+#disney
+||disney-plus.net^
+||disneyplus.com^
+||dssott.com^
+||search-api-disney.bamgrid.com^
+#hbo
+||hbo.com^
+||hbogo.co.th^
+||hbogo.com^
+||hbogo.eu^
+||hbogoasia.com^
+||hbogoasia.id^
+||hbogoasia.ph^
+||hbomax.com^
+||hbomaxcdn.com^
+#netflix
+||nflxext.com^
+||netflix.com^
+||nflximg.net^
+||nflxvideo.net^
+||nflxso.net^
+||netflix.net^
+||nflximg.com^
+#Prime
+||aiv-cdn.net^
+||aiv-delivery.net^
+||amazonvideo.com^
+||atv-ext-eu.amazon.com^
+||atv-ext-fe.amazon.com^
+||atv-ext.amazon.com^
+||atv-ps.amazon.com^
+||primevideo.com^
+||pv-cdn.net^
