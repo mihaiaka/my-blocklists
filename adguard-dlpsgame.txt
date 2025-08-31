@@ -1,0 +1,3 @@
+# This blocklist helps Adguard admin restrict (or whitelist) access to some site with to many ads.
+
+||oii.la^
