@@ -6,6 +6,12 @@
 ||dssott.com^
 ||search-api-disney.bamgrid.com^
 #hbo
+||play.hbomax.com^
+||events.prd.api.max.com^
+||telegraph.prd.api.max.com^
+||matomo.max.nl^
+||tracking.max.co.il^
+||matrix.hbo.com^
 ||hbo.com^
 ||hbogo.co.th^
 ||hbogo.com^
@@ -32,4 +38,5 @@
 ||atv-ext.amazon.com^
 ||atv-ps.amazon.com^
 ||primevideo.com^
+
 ||pv-cdn.net^
