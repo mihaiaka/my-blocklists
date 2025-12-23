@@ -24,6 +24,7 @@
 ||hbogoasia.ph^
 ||events.prd.api.max.com^
 ||telegraph.prd.api.max.com^
+||telegraph.prd.api.discomax.com^
 ||default.prd.api.max.com^
 ||busy.prd.api.max.com^
 ||default.prd.api.max.com^
@@ -59,4 +60,5 @@
 ||primevideo.com^
 
 ||pv-cdn.net^
+
 
