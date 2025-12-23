@@ -8,3 +8,5 @@
 ||brawlstars.com^
 ||poki.com^
 ||rekenen.nl^
+||crazygames.com^
+||bloxd.io^
