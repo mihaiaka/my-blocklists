@@ -10,3 +10,8 @@
 ||rekenen.nl^
 ||crazygames.com^
 ||bloxd.io^
+||minecraft.net^
+||mojang.com^
+||xboxlive.com^
+||auth.geysermc.org^ 
+||://minecraftservices.com^
