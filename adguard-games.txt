@@ -11,6 +11,7 @@
 ||crazygames.com^
 ||bloxd.io^
 ||minecraft.net^
+||minecraft.com^
 ||mojang.com^
 ||xboxlive.com^
 ||auth.geysermc.org^ 
