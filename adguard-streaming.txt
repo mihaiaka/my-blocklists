@@ -58,7 +58,6 @@
 ||atv-ext.amazon.com^
 ||atv-ps.amazon.com^
 ||primevideo.com^
-
 ||pv-cdn.net^
 
 
