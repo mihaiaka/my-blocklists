@@ -17,3 +17,4 @@
 ||auth.geysermc.org^ 
 ||://minecraftservices.com^
 ||playgama.com^
+||playhop.com^
