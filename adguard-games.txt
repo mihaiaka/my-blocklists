@@ -16,3 +16,4 @@
 ||xboxlive.com^
 ||auth.geysermc.org^ 
 ||://minecraftservices.com^
+||playgama.com^
