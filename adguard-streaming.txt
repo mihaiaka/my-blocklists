@@ -72,3 +72,5 @@
 ||nuvio.tv^
 ||api.nuvio.tv^
 ||nuvioapp.space^
+||v3-cinemeta.strem.io^
+||real-debrid.com^
