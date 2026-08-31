@@ -1,10 +1,12 @@
 # This blocklist helps Adguard admin restrict access to streaming services.
 # Curated from sources online.
+
 #disney
 ||disney-plus.net^
 ||disneyplus.com^
 ||dssott.com^
 ||search-api-disney.bamgrid.com^
+
 #hbo
 ||hbo.com^
 ||hbomax.com^
@@ -41,6 +43,7 @@
 ||lightning.warnermediacdn.com^
 ||wmff.warnermediacdn.com^
 ||geolocation.onetrust.com^
+
 #netflix
 ||nflxext.com^
 ||netflix.com^
@@ -49,6 +52,7 @@
 ||nflxso.net^
 ||netflix.net^
 ||nflximg.com^
+
 #Prime
 ||aiv-cdn.net^
 ||aiv-delivery.net^
@@ -60,4 +64,11 @@
 ||primevideo.com^
 ||pv-cdn.net^
 
-
+#Stremio & Nuvio
+||strem.io^
+||stremio.com^
+||api.strem.io^
+||cinemeta.strem.io^
+||nuvio.tv^
+||api.nuvio.tv^
+||nuvioapp.space^
