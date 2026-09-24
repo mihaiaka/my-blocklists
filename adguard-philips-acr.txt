@@ -3,3 +3,5 @@
 ||nettv.corio.com^
 ||nettvservices.com^
 ||tpvision.com^
+||samba.tv^
+||alphonso.tv^
