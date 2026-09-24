@@ -1,0 +1,7 @@
+# This blocklist helps Adguard admin restrict access to Philips/TP Vision TVs ACR (Automatic Content Recognition)/telemetry
+
+||nettv.corio.com^
+||legacyportal.nettvservices.com^
+||ad.nettvservices.com^
+||tpvision.com^
+||smarttv.tpvision.com^
