@@ -1,4 +1,0 @@
-# This blocklist helps Adguard admin restrict access to brawlstars and its domains.
-
-||game.brawlstarsgame.com^
-||brawlstars.com^
